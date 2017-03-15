@@ -1,1 +1,1 @@
-# naive_bayes_cpu
+# Naive Bayes
